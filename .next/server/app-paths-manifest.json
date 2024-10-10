@@ -1,0 +1,6 @@
+{
+  "/page": "app/page.js",
+  "/api/db_handler/signin/route": "app/api/db_handler/signin/route.js",
+  "/auth/signin/page": "app/auth/signin/page.js",
+  "/dashboard/page": "app/dashboard/page.js"
+}
